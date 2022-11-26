@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# IT-recruiter
+# IT-recruiter ✨
 ## Chinova Yana
 <div> 
 <!-- ![](Chinova_foto1.jpg) -->
   <img src="Chinova_foto1.jpg" alt="photo" width="200"/>
   <ul> 
-    <li><a href="tel:+79049889900">+ 7 904 9 88 99 00</a></li>
+    <li><a href="tel:">https://t.me/Yann4a</a></li>
     <li><a href="mailto:yann4ach@gmail.com">yann4ach@gmail.com</a></b>
   </ul>
 </div> 
@@ -30,6 +30,14 @@ Here are some ideas to get you started:
   <p><b>WORK EXPERIENCE</b><br>
   <b>2021 - Present</b>  SMART HIRING PRO <br> IT- Recruiter</p>
   <p>Searching, interviewing, leading and supporting the candidate,<br>communicating with the client throughout the recruitment process</p>
+  
+   <p> I carry out the full cycle of recruitment: taking the vacancy and posting it on various sources, search for candidates on different platforms, interviewing, writing screening, organizing interviews with hiring managers, communicating with candidates at all stages of the interview, controlling the output of the candidate and the passage of his probationary period.</p>
+  
+   <p> I do have experience working with various companies: both Russian and European, both small and corporate. Accordingly, I have experience in searching for candidates in different markets. Also I have experience in interviewing in English, my English is not fluent yet, but I am actively working on it.</p>
+  
+   <p> Positions for which I've placed candidates - frontend developers, backend developers, full-stack developers, QA engineers, DevOps.</p>
+   <p> Position's stacks: PHP, Java, Javascript, Go, React, Node.js and etc.</p>
+  
   <p><b>2010-2021</b> Accountant</p>
   <p>Communication with customers, suppliers, employees, dealing with banks, managing various complex problems</p>
   <p><b>COURSES</b><br>
