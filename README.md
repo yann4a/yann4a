@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <div> 
 <!-- ![](Chinova_foto1.jpg) -->
   <img src="Chinova_foto1.jpg" alt="photo" width="200"/>
+  <p>  <b> Contact: </b> </p>
   <ul> 
-    <li> <b> Contact: </b> </li>
     <li><a href="https://t.me/Yann4a"> 📱 https://t.me/Yann4a</a></li>
     <li><a href="mailto:yann4ach@gmail.com"> 📬 yann4ach@gmail.com</a></b>
   </ul>
