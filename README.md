@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <div>
   <p><b>WORK EXPERIENCE</b><br>
-  <b>2021 - Present</b>  SMART HIRING PRO <br> IT- Recruiter</p>
+    <b>2021 - Present</b>  SMART HIRING PRO <br> <b> IT- Recruiter </b> </p>
   <p>Searching, interviewing, leading and supporting the candidate,<br>communicating with the client throughout the recruitment process</p>
   
    <p> I carry out the full cycle of recruitment: taking the vacancy and posting it on various sources, search for candidates on different platforms, interviewing, writing screening, organizing interviews with hiring managers, communicating with candidates at all stages of the interview, controlling the output of the candidate and the passage of his probationary period.</p>
